@@ -4,8 +4,6 @@
 
 > Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
 
-<img src="../..//wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
-
 JetBot is an open-source robot based on NVIDIA Jetson Nano that is
 
 * **Affordable** - Less than $150 add-on to Jetson Nano
